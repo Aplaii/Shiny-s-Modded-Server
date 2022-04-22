@@ -7,6 +7,10 @@ Folder that contains everything needed to play on the server
 #########################################################################
 #########################################################################
 
+## Links :
+ - The Mods Folder : https://drive.google.com/drive/folders/1nggJr021zSaQoNzskpe3oQS-gSbKapup?usp=sharing
+
+
 
 ## 1.
 
