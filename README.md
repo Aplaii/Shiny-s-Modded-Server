@@ -10,8 +10,8 @@
 - Download all the mods in the "Mods" Folder : https://drive.google.com/drive/folders/1nggJr021zSaQoNzskpe3oQS-gSbKapup?usp=sharing
 - On your computer :
    - Press Windows + R
-   - Enter : appdata%
-   - Go to .minecraft
+   - Enter : %appdata%
+   - Go to in the folder : .minecraft 
    - Search for the folder "mods", if its not here : create one
    - Place all the downloaded mods in this folder
 
